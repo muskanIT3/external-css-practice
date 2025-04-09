@@ -1,0 +1,41 @@
+body
+{
+ background-color:lavender;
+ font-famliy:ariel;
+}
+h1
+{
+ color:darkblue;
+ text-align:center;
+}
+p
+{
+ font-size:18px;
+ text-align:center;
+}
+img
+{
+ margin:10px;
+ width:200px;
+ border:solid black;
+ border-radius:15px;
+ display:block;
+ margin-left:auto;
+ margin-right:auto;
+}
+a
+{
+ display:block;
+ text-align:center;
+ font-weight:bold;
+ color:grey
+ margin-bottom:20px;
+}
+form
+{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ gap: 10px;
+}
+ 
